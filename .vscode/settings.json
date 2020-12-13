@@ -1,6 +1,5 @@
 {
     "editor.fontSize": 14,
-    "editor.fontFamily": "'Fira Code'",
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
         "--enable=unused-import",
